@@ -1,5 +1,3 @@
-
-
 Business: SMART Car Wiring & ECM Repair, Ujjain
 
 Owner: Mr. Arshad Shah
@@ -14,4 +12,4 @@ Timing: Monday–Saturday, 10 AM–8 PM
 
 Contact: 9098723342, 9516639139, 7470886107
 
-Website mein Call, WhatsApp aur Google Maps buttons bhi diye gaye hain. 
+<img width="1774" height="887" alt="1000583332" src="https://github.com/user-attachments/assets/fb1ea120-30fb-44ec-9dbc-d6962d80d9da" />
